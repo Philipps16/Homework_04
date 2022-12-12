@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\obj\Debug\net6.0\Example_03_massiv.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\obj\Debug\net6.0\Example_03_massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\obj\Debug\net6.0\Example_03_massiv.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\obj\Debug\net6.0\Example_03_massiv.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\obj\Debug\net6.0\Example_03_massiv.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\bin\Debug\net6.0\Example_03_massiv.exe
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\bin\Debug\net6.0\Example_03_massiv.deps.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\bin\Debug\net6.0\Example_03_massiv.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\bin\Debug\net6.0\Example_03_massiv.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\bin\Debug\net6.0\Example_03_massiv.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\obj\Debug\net6.0\Example_03_massiv.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\obj\Debug\net6.0\refint\Example_03_massiv.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\obj\Debug\net6.0\Example_03_massiv.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\obj\Debug\net6.0\Example_03_massiv.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_03_massiv\obj\Debug\net6.0\ref\Example_03_massiv.dll
