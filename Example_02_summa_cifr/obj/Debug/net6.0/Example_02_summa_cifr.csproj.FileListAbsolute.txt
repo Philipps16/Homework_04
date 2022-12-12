@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\bin\Debug\net6.0\Example_02_summa_cifr.exe
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\bin\Debug\net6.0\Example_02_summa_cifr.deps.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\bin\Debug\net6.0\Example_02_summa_cifr.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\bin\Debug\net6.0\Example_02_summa_cifr.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\bin\Debug\net6.0\Example_02_summa_cifr.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\obj\Debug\net6.0\Example_02_summa_cifr.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\obj\Debug\net6.0\Example_02_summa_cifr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\obj\Debug\net6.0\Example_02_summa_cifr.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\obj\Debug\net6.0\Example_02_summa_cifr.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\obj\Debug\net6.0\Example_02_summa_cifr.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\obj\Debug\net6.0\Example_02_summa_cifr.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\obj\Debug\net6.0\refint\Example_02_summa_cifr.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\obj\Debug\net6.0\Example_02_summa_cifr.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\obj\Debug\net6.0\Example_02_summa_cifr.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_04\Example_02_summa_cifr\obj\Debug\net6.0\ref\Example_02_summa_cifr.dll
